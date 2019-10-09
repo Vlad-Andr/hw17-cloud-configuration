@@ -1,1 +1,0 @@
-# hw17-cloud-configuration
